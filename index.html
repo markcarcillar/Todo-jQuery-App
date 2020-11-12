@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo App</title>
+  <link rel="stylesheet" href="../../bootstrap.min.css">
+  <link rel="stylesheet" href="../../bootstrap.min.js.map">
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h1 class="display-4 my-5 text-center">Todo App</h1>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-lg-7 mx-auto">
+        <form id="todoForm" class="form-group">
+          <label for="do" class="lead">Write your todos here:</label>
+          <input id="do" class="form-control mb-3" type="text" placeholder="Write your todos here">
+          <button id="addToDoBtn" class="btn btn-primary btn-block my-2" type="button">Add!</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <p class="my-3 lead">
+          Your todos:
+        </p>
+      </div>
+    </div>
+    
+    <div id="todos" class="row">
+      <div class="col-lg-6">
+        <div class="card card-body m-2">
+          Sample todo
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card card-body m-2">
+          Sample todo
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card card-body m-2">
+          Sample todo
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../../jquery-3.5.1.min.js"></script>
+  <script src="../../bootstrap.min.js"></script>
+  <script src="../../bootstrap.min.js.map"></script>
+  <script src="script.js"></script>
+</body>
+</html>
