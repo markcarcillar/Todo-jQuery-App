@@ -31,21 +31,25 @@
     </div>
   </div>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <p class="my-3 lead">
+  <div id="todosContainer" class="container">
+    <div class="row my-3">
+      <div class="col-12 d-flex justify-content-between">
+        <p id="yourTodos" class="lead">
           Your todos:
         </p>
+        <button id="clearTodos" class="btn btn-outline-danger py-1">Clear all todos</button>
       </div>
     </div>
     
-    <!-- Container for todos -->
-    <div id="todos" class="row">
+    <!--When there are no todos-->
+    <div class="row">
       <div id="noTodos" class="col">
         <h3 class="text-center my-2">You have no todos. Go get some rest!</h3>
       </div>
     </div>
+
+    <!-- Container for todos -->
+    <div id="todos" class="row"></div>
   </div>
 
   <!--jQuery-->
@@ -53,6 +57,8 @@
   <!--Boostrap JS-->
   <script src="bootstrap/bootstrap.min.js"></script>
   <script src="bootstrap/bootstrap.min.js.map"></script>
+  <!--Keycode JS-->
+  <script src="keycode.js"></script>
   <!--Custom JS-->
   <script src="script.js"></script>
 </body>
