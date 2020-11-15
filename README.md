@@ -29,7 +29,7 @@
   3. It's done!
 
 # Todo App
-[![My website](https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-brightgreen?style=for-the-badge&logo=appveyor&logo=data:image/clediscover-icon.png;base64,…)](https://clediscover.xyz)
+[![My website](https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-brightgreen?style=for-the-badge&logo=appveyor&logo=data:img/clediscover-icon.png;base64,…)](https://clediscover.xyz)
 
 [![GitHub issues](https://img.shields.io/github/issues/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/issues)
 [![GitHub forks](https://img.shields.io/github/forks/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/network)
