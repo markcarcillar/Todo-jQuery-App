@@ -24,4 +24,4 @@
 [![GitHub stars](https://img.shields.io/github/stars/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/stargazers)
 [![GitHub license](https://img.shields.io/github/license/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/blob/master/LICENSE.md)
 
-https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-yellowgreen
+![](https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-brightgreen)
