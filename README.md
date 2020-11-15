@@ -4,7 +4,7 @@
 
 ## Here are the things that you can do here:
   1. **Add todo** - Add that through input. You can also submit a todo by hitting enter on your keyboard. There are rules for creating todos, first is it should not be empty and last is it should not be repeated.
-  2. **Clear all todos** - You can do this by hitting the Del (Delete) on keyboard or click the Clear All Todos button.
+  2. **Clear all todos** - You can do this by hitting the Del (Delete) on your keyboard or click the Clear All Todos button.
 
 ## With and Without Todo
   ##### With
@@ -29,9 +29,10 @@
   3. It's done!
 
 # Todo App
+[![My website](https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-brightgreen?style=for-the-badge&logo=appveyor)](https://clediscover.xyz)
+
+
 [![GitHub issues](https://img.shields.io/github/issues/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/issues)
 [![GitHub forks](https://img.shields.io/github/forks/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/network)
 [![GitHub stars](https://img.shields.io/github/stars/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/stargazers)
 [![GitHub license](https://img.shields.io/github/license/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/blob/master/LICENSE.md)
-
-[![My website](https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-brightgreen)](https://clediscover.xyz)
