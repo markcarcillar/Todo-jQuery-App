@@ -7,10 +7,16 @@
   2. **Clear all todos** - You can do this by hitting the Del (Delete) on keyboard or click the Clear All Todos button.
 
 ## With and Without Todo
-  <img src="img/no-todos.png" alt="No todos" style="float: right; margin-right: 10px; height: 200px;"><img src="img/with-some-todos.png" alt="With some todos" style="float: right; margin-right: 10px; height: 200px;">
+  ##### With
+  <img src="img/with-some-todos.png" alt="With some todos" style="float: right; margin-right: 10px; height: 200px;">
+  ##### Without
+  <img src="img/no-todos.png" alt="No todos" style="float: right; margin-right: 10px; height: 200px;">
 
 ## Adding Empty and Repeated Todo
-  <img src="img/adding-todo-that-is-empty.png" alt="Adding todos that is empty" style="float: right; margin-right: 10px; height: 200px;"><img src="img/adding-todo-that-already-exist.png" alt="Adding todos that already exist" style="float: right; margin-right: 10px; height: 200px;">
+  ##### Empty
+  <img src="img/adding-todo-that-is-empty.png" alt="Adding todos that is empty" style="float: right; margin-right: 10px; height: 200px;">
+  ##### Repeated
+  <img src="img/adding-todo-that-already-exist.png" alt="Adding todos that already exist" style="float: right; margin-right: 10px; height: 200px;">
 
 ## Quick Start
   1. On terminal/CMD do the following command:
