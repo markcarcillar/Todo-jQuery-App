@@ -1,10 +1,8 @@
-# Todo App
+# Todo jQuery App
 [![My website](https://img.shields.io/badge/CLeDiscover-Clever%2C%20let's%20discover!-brightgreen?style=for-the-badge&logo=appveyor&logo=superuser)](https://clediscover.xyz)
 
-[![GitHub issues](https://img.shields.io/github/issues/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/issues)
-[![GitHub forks](https://img.shields.io/github/forks/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/network)
-[![GitHub stars](https://img.shields.io/github/stars/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/stargazers)
-[![GitHub license](https://img.shields.io/github/license/clediscover/Todo-App)](https://github.com/clediscover/Todo-App/blob/master/LICENSE.md)
+[![GitHub stars](https://img.shields.io/github/stars/clediscover/Todo-jQuery-App)](https://github.com/clediscover/Todo-jQuery-App/stargazers)
+[![GitHub license](https://img.shields.io/github/license/clediscover/Todo-jQuery-App)](https://github.com/clediscover/Todo-jQuery-App/blob/master/LICENSE.md)
 
 ## Description
 - This application is made with HTML, CSS, Bootstrap, and jQuery. It is more focused on **jQuery** in terms of events.
@@ -30,7 +28,7 @@
 ## Quick Start
   1. On terminal/CMD do the following command:
       ```
-        git clone https://github.com/clediscover/Todo-App.git
+        git clone https://github.com/clediscover/Todo-jQuery-App.git
       ``` 
-  2. Go to the directory, where you've cloned, then open the "index.html".
+  2. Go to the **Todo-jQuery-App** directory, then open the **index.html**.
   3. It's done!

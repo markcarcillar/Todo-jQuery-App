@@ -1,6 +1,0 @@
-How to determine if object is already in array with javascript:
-https://stackoverflow.com/questions/4587061/how-to-determine-if-object-is-in-array
-https://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-a-value-in-javascript
-
-How to add elements in array with javascript:
-https://www.dyn-web.com/javascript/arrays/add.php
